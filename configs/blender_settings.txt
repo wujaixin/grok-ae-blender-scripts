@@ -1,0 +1,6 @@
+# Grok Optimized Blender Settings
+render.engine = CYCLES
+samples = 256
+resolution = 1920x1080
+denoising = True
+format = OPEN_EXR
