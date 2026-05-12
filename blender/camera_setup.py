@@ -1,0 +1,1 @@
+Blender Camera Setup 85mm - Grok Recommended. Sets up cinematic camera with DOF. Code: import bpy; def setup(focal=85): cam = bpy.data.objects.get('GrokCam') or bpy.ops.object.camera_add(); cam.data.lens = focal; print('Camera ready')
