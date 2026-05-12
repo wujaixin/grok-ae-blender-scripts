@@ -1,0 +1,4 @@
+# Grok AE Project Template
+Width:1920 Height:1080 FPS:30
+Effects: Lumetri + Glow + LensBlur
+Export: H.264 1080p 20Mbps
